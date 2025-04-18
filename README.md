@@ -39,14 +39,7 @@ Currently working remotely from Ukraine.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MaryUshenina&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MaryUshenina&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryUshenina&theme=dark&hide_border=false&layout=compact)
-
----
+📊 Most of my work is in private repositories.
 
 [![](https://visitcount.itsvg.in/api?id=MaryUshenina&icon=0&color=0)](https://visitcount.itsvg.in)
 
