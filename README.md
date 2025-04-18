@@ -3,9 +3,10 @@
 
 **Backend Developer | 10+ Years of Experience | Laravel & Symfony Enthusiast**
 
-Backend engineer with a decade of experience in scalable PHP applications.  
-I focus on delivering clean, maintainable code and aligning tech with business needs.  
-Currently working remotely from Ukraine.
+Backend engineer with over 10 years of experience in PHP development.  
+Currently working on highload, scalable systems, but throughout my career I contributed to a variety of projects — from long-term, stable products to less structured, legacy-heavy systems
+I value clean, maintainable code and believe in aligning tech solutions with business goals.
+Remote-based developer currently living in Ukraine
 
 ---
 
