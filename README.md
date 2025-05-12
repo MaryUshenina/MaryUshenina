@@ -45,3 +45,9 @@ Remote-based developer currently living in Ukraine
 [![](https://visitcount.itsvg.in/api?id=MaryUshenina&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with GPRM (https://gprm.itsvg.in) -->
+
+## 📝 Articles:
+
+- 🇷🇺 [Как случайные мелочи стали моими карьерными якорями](reputation-capital.md)  
+- 🇬🇧 [How Small Moments Became Career Anchors](reputation-capital.en.md)
+
