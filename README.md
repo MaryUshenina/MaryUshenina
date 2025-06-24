@@ -48,6 +48,6 @@ Remote-based developer currently living in Ukraine
 
 ## 📝 Articles:
 
-- 🇷🇺 [Как случайные мелочи стали моими карьерными якорями](reputation-capital.md)  
+- 🇷🇺 [Как случайные мелочи стали моими карьерными якорями](reputation-capital.ru.md)  
 - 🇬🇧 [How Small Moments Became Career Anchors](reputation-capital.en.md)
 
